@@ -1,0 +1,24 @@
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Mail Sender.exe.manifest
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Mail Sender.application
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Mail Sender.exe
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Mail Sender.pdb
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Mail Sender.exe.manifest
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Mail Sender.application
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Mail Sender.exe
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Mail Sender.pdb
+D:\!project\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Mail Sender.exe
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Mail Sender.pdb
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Mail Sender.exe.manifest
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Mail Sender.application
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Mail Sender.exe
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Mail Sender.pdb
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Mail Sender.exe.manifest
+D:\share\github\mailSendSharp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Mail Sender.application
